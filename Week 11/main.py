@@ -76,6 +76,15 @@ def hack_sha256(hash):
         if candidate:
             return candidate
 
+# Cracking longer hashes
+# The first idea that came into my mind is look up the massive pre-computed
+# tables (like rock you, rainbow table and so on) to crack hashes
+# I found online tool which use Crack station word dictionary (https://crackstation.net/)
+
+# e06554818e902b4ba339f066967c0000da3fcda4fd7eb4ef89c124fa78bda419 -> cryptography
+# 8aa261cbc05ad6a49bea91521e51c8b979aa78215b8defd51fc0cebecc4d5c96 -> romeo and juliet
+# f2b826b18b9de86628dd9b798f3cb6cfd582fb7cee4ea68489387c0b19dc09c1 -> vulnerable
+
 
 def authenticate_with_pepper(user_name, password):
     '''

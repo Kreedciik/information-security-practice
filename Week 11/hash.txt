@@ -1,0 +1,7 @@
+Hack the following hashes and comment the answer into submitted code and a short detail how did you do it. (do not try to brute force with your own code, it would be a really long run:) ). If you do not know how to do it, read again the article above.
+
+e06554818e902b4ba339f066967c0000da3fcda4fd7eb4ef89c124fa78bda419
+
+8aa261cbc05ad6a49bea91521e51c8b979aa78215b8defd51fc0cebecc4d5c96
+
+f2b826b18b9de86628dd9b798f3cb6cfd582fb7cee4ea68489387c0b19dc09c1
